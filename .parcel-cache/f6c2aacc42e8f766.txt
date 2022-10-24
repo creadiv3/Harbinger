@@ -1,4 +1,4 @@
-5074
+5077
 84C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\css-tree\lib\common133110226319013887 1
 118C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\@popperjs\core\lib\dom-utils\getWindowScrollBarX.d.ts133110224800713363 0
 115C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\@parcel\transformer-babel\lib\remapAstLocations.js133110226312376339 0
@@ -41,7 +41,7 @@
 89C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\abortcontroller-polyfill133110226312166335 1
 96C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\caniuse-lite\data\regions\MD.js133110226325728233 0
 83C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\.package-lock.json133110264706186148 0
-56C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\dist133111067562287213 1
+56C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\dist133111108651645409 1
 90C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\jquery\src\css\support.js133110264703496558 0
 91C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\msgpackr\dist\index.min.js133110226310586092 0
 88C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\@parcel\transformer-raw133110226305937380 1
@@ -57,7 +57,7 @@
 100C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\svgo\plugins\cleanupListOfValues.js133110226311936340 0
 105C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\source-map-support\source-map-support.js133110226306287337 0
 73C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\boolbase133110226304905957 1
-62C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\index.html133111067561427826 0
+62C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\index.html133111108650773238 0
 96C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\dotenv-expand\dotenv-expand.png133110226304494705 0
 82C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\is-json\README.md133110226305085961 0
 91C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\bootstrap\js\dist\index.js133110264702363998 0
@@ -75,7 +75,7 @@
 89C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\css-tree\data\patch.json133110226319323879 0
 64C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules133110264705541083 1
 98C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\jquery\src\var\documentElement.js133110264701651124 0
-62C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\style.scss133111061435494502 0
+62C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\style.scss133111108583892684 0
 99C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\caniuse-lite\data\features\flac.js133110226322580734 0
 108C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\@parcel\transformer-js\src\JSTransformer.js133110226307977675 0
 87C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\svgo\lib\svgo\jsAPI.js133110226314212978 0
@@ -1038,6 +1038,7 @@
 97C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\type-fest\source\promisable.d.ts133110226313982914 0
 97C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\@popperjs\core\dist\esm\index.js133110224798772849 0
 124C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.c133110226315384486 0
+73C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\dist\10.bfc38a15.jpeg133111086025703147 0
 100C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\type-fest\source\promise-value.d.ts133110226314072921 0
 94C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\domutils\lib\helpers.d.ts.map133110226311751251 0
 110C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\caniuse-lite\data\features\css-unset-value.js133110226321189463 0
@@ -2823,7 +2824,7 @@
 95C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\@swc\helpers\lib\_construct.js133110226314602914 0
 81C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\css-tree\LICENSE133110226303774708 0
 91C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\css-tree\lib\syntax\pseudo133110226318783822 1
-79C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\dist\index.8353e49f.css.map133111061439347399 0
+79C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\dist\index.8353e49f.css.map133111108584861350 0
 122C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\@parcel\package-manager\test\fixtures\packages\a\index.js133110226312006346 0
 121C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\@swc\helpers\lib\_class_static_private_field_spec_set.js133110226314342923 0
 86C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\node_modules\css-tree\package.json133110226319293873 0
@@ -5070,6 +5071,8 @@
 72C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\dist\1.43cb0911.jpeg133110998721024264 0
 72C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\dist\3.5873e1fa.jpeg133110998721114249 0
 72C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\dist\4.ce892d05.jpeg133111059877866191 0
+72C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\dist\8.a90923d1.jpeg133111085858818217 0
+72C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\dist\9.cea3675b.jpeg133111085858606299 0
 83C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\dist\bootstrap-shop.3464ddca.js133110919831915146 0
-75C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\dist\index.8353e49f.css133111061439317699 0
-67C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\dist\index.html133111067562274179 0
+75C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\dist\index.8353e49f.css133111108584821064 0
+67C:\Users\bartk\Desktop\dev\bootstrap\bootstrap-shop\dist\index.html133111108651625436 0
