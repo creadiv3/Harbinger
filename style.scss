@@ -1,4 +1,9 @@
 $font-header: "Playfair Display", serif;
+$font-text: "Barlow", sans-serif;
+
+body {
+  font-family: $font-text;
+}
 
 .carousel-inner,
 .carousel-item {
@@ -52,6 +57,10 @@ $font-header: "Playfair Display", serif;
   i {
     font-size: 20px;
   }
+
+  p {
+    font-weight: 300;
+  }
 }
 
 .contact {
@@ -59,6 +68,10 @@ $font-header: "Playfair Display", serif;
   .box {
     flex: 0 0 33.333%;
     justify-content: center;
+  }
+
+  p {
+    font-weight: 300;
   }
 
   ul {
@@ -79,5 +92,14 @@ $font-header: "Playfair Display", serif;
         }
       }
     }
+  }
+}
+
+.footer {
+  background: rgb(208, 219, 225);
+
+  p,
+  a {
+    font-weight: 300;
   }
 }
